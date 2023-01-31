@@ -7,7 +7,7 @@ import Map from './components/Map'
 const routes = [
     {
         'element': <ArrayMethods />,
-        'path': '/array-methods'
+        'path': '/'
     },
     {
         'element': <Map />,
