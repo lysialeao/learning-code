@@ -11,7 +11,7 @@ const routes = [
     },
     {
         'element': <Map />,
-        'path': 'array-methods/map'
+        'path': '/array-methods/map'
     }
 ]
 
